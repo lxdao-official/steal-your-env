@@ -1,4 +1,4 @@
-# any npm package can steal your environment variables
+# Any npm package can steal your environment variables
 
 This is a project that tells you the truth about the safety of your environment.
 
@@ -20,7 +20,7 @@ If your project is a Nodejs project, you can import it in any file in your main 
 
 if your project is a browser project, you can import it into your build script, like webpack.config.js or gulpfile.js or vue.config.js or any other build environment files.
 
-## what does it do?
+## What does it do?
 
 steal-your-env will print all your environment variables to your console.
 
