@@ -36,5 +36,6 @@ Wish you were aware of your environment's safety.
 
 ## The Console Preview
 
-![image](https://user-images.githubusercontent.com/897401/175221544-5f2b2e0a-094a-484f-ae09-0989b4979d83.png)
+![image](https://user-images.githubusercontent.com/897401/175222212-1b526a89-58e9-4df9-82af-fbb2a04736ea.png)
+
 
