@@ -4,6 +4,10 @@ This is a project that tells you the truth about the safety of your environment.
 
 > any npm package can steal your environment variables
 
+if you want to know who is reading your environment variables and scan your .env files, you can use this package:
+
+https://github.com/lxdao-official/who-read-env
+
 ## How to use it
 
     npm install steal-your-env --save-dev
