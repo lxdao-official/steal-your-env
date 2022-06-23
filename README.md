@@ -6,7 +6,7 @@ yes, this is a project that tell you some truth about the safety of your environ
 
 ## How to use it
 
-    npm install -g steal-your-env
+    npm install steal-your-env --save-dev
 
 and then import in your project:
 
