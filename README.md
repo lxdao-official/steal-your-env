@@ -33,3 +33,8 @@ It will not store or upload anything to any server.
 It's just a joke.
 
 Wish you were aware of your environment's safety.
+
+## The Console Preview
+
+![image](https://user-images.githubusercontent.com/897401/175221544-5f2b2e0a-094a-484f-ae09-0989b4979d83.png)
+
